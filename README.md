@@ -23,3 +23,8 @@ High accuracy of model attribute of less testing data.Counting days also as Date
 Further improvements:-
 LDA Model corpus extended from 50k till entire 3 million(Hardware required)
 Auto Annotation using LLM'S to finetune gliner model
+
+Link for models:-
+https://drive.google.com/drive/folders/1BxRn-1Lc1QzslJNY0AAUZQ3nweWA5uX8?usp=sharing
+Resume:-
+https://drive.google.com/file/d/1HcLtIeWytuEYb8XIBCesGvlnWgqVKDwo/view?usp=sharing
