@@ -4,7 +4,7 @@ Metrics for NER Model:-
 (100 sample data points(manual annotation))
 Precision-0.99
 Recall-0.94
-F1 Score-0.94 
+F1 Score-0.96 
 For LDA Model(on sample set of 1000 from given data)
 ![Screenshot 2025-04-03 131040](https://github.com/user-attachments/assets/c37caab6-28a4-4aeb-8fca-65b1c8796451)
 
